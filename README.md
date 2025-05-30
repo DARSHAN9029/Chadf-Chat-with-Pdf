@@ -30,7 +30,7 @@ HF_TOKEN=your_huggingface_token
 
 ---
 
-▶️ How to Run
+## ▶️ How to Run
 ```bash
 streamlit run app.py
 ```
@@ -42,7 +42,14 @@ Review full chat history below the answer.
 
 ---
 
-✨ Credits
+## Screenshots
+![Screenshot 2025-05-30 163250](https://github.com/user-attachments/assets/430d9755-c470-4bbe-a6b0-cf7ffc2007a5)
+![Screenshot 2025-05-30 163303](https://github.com/user-attachments/assets/cc5df030-14ab-4608-95fe-976cf3ac3616)
+![Screenshot 2025-05-30 163317](https://github.com/user-attachments/assets/f9d8e4a3-6924-49e3-8b3f-88bc1118b3d8)
+
+---
+
+## ✨ Credits
 
 LangChain
 Groq
