@@ -1,4 +1,4 @@
-# 🗂️ Chat with PDF (with History)
+# 🗂️ CHAdf-Chat with PDF with chat history
 
 A Conversational RAG (Retrieval-Augmented Generation) Streamlit app that allows users to upload PDFs and chat with them. The app maintains per-session **chat history** using LangChain and supports **context-aware queries** using Groq's `Gemma2-9b-It` LLM.
 
