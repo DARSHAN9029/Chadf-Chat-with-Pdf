@@ -30,3 +30,4 @@ duckduckgo-search
 unstructured
 mysql-connector-python
 SQLAlchemy
+streamlit
