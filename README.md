@@ -10,14 +10,14 @@ A Conversational RAG (Retrieval-Augmented Generation) Streamlit app that allows 
 - 💬 Maintains chat history across sessions (`ChatMessageHistory`).
 - 🔁 History-aware query reformulation.
 - 🤖 Powered by Groq's Gemma2-9b-It model.
-- 🧠 Uses HuggingFace embeddings with Chroma vector store.
+- 🧠 Uses HuggingFace embeddings with Chromadb as vector store database.
 
 ---
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/chat-with-pdf-history.git
+git clone https://github.com/DARSHAN9029/Chadf-Chat-with-Pdf.git
 ```
 ---
 ```bash
@@ -29,7 +29,6 @@ pip install -r requirements.txt
 🔐 Environment Variables
 Create a .env file in the root directory:
 ```
-env
 HF_TOKEN=your_huggingface_token
 ```
 ---
